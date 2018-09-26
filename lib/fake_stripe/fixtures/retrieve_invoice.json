@@ -41,6 +41,7 @@
     "url": "/v1/invoices/in_103ewP2eZvKYlo2CFLLwIX7a/lines"
   },
   "subtotal": 0,
+  "number": "C89F0FE-0006",
   "total": 0,
   "customer": "abcdefghijklmnop",
   "object": "invoice",
