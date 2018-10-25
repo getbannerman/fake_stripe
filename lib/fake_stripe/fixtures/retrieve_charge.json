@@ -41,6 +41,7 @@
   "invoice": null,
   "description": null,
   "dispute": null,
+  "status": "succeeded",
   "metadata": {
   }
 }

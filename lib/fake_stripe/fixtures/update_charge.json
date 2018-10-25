@@ -41,6 +41,7 @@
   "invoice": null,
   "description": "Charge for test@example.com",
   "dispute": null,
+  "status": "succeeded",
   "metadata": {
   }
 }
